@@ -1,37 +1,37 @@
-# Commercial Use of Aether Mail
+# Commercial Use of Astron Social
+Astron Social is released under the GNU Affero General Public License v3.0 (AGPLv3).
 
-Aether Mail is released under the [GNU Affero General Public License v3.0 (AGPLv3)](https://www.gnu.org/licenses/agpl-3.0.html).
+# ✅ What You Can Do
+You are free to use, modify, and self-host Astron Social for personal, educational, or internal purposes, as long as you comply with the terms of the AGPLv3 license.
 
-## ✅ What You Can Do
+You may redistribute modified or unmodified versions of the software, but you must provide public access to the source code — including if you deploy it as a network service (e.g., a hosted social platform).
 
-- You are free to use, modify, and self-host Aether Mail for personal or internal use, as long as you comply with the terms of the AGPLv3 license.
-- You may redistribute modified or unmodified versions of the software, but you must provide access to the source code, including for network-based services (e.g. SaaS).
+# 🚫 What Requires a Commercial License
+You must contact Astron Technologies and obtain a commercial license if you intend to:
 
-## 🚫 What Requires a Commercial License
+- Launch Astron Social as a commercial or public-facing SaaS (Software-as-a-Service), whether free or paid.
 
-You **must contact Sky Genesis Enterprise** and obtain a commercial license **if you plan to**:
+- Integrate Astron Social into a larger commercial platform, app suite, or enterprise solution.
 
-- Offer Aether Mail as a paid or free SaaS (Software-as-a-Service) product.
-- Bundle Aether Mail into a commercial product or platform.
-- Use Aether Mail in a business context without open-sourcing your modifications and dependencies (as required by AGPLv3).
-- Require a proprietary license or want to avoid the AGPLv3 copyleft obligations.
+- Use Astron Social in a business environment without open-sourcing your changes and dependencies (as required by AGPLv3).
 
-## 🧾 Why a Commercial License?
+- Seek to bypass AGPLv3 obligations or need a proprietary license.
 
-We want to support sustainable open-source development while offering flexibility to businesses. A commercial license:
+# 🧾 Why a Commercial License?
+We believe in sustainable open-source development and fair use. A commercial license:
 
-- Removes the copyleft obligations of AGPLv3.
-- Allows proprietary modifications and closed SaaS usage.
-- Grants access to premium features (if available).
-- Includes professional support and onboarding options.
+- Lifts the AGPLv3 copyleft requirements.
 
-## 📩 Contact
+- Enables private or proprietary use, including closed-source SaaS deployments.
 
-For commercial licensing, support, or enterprise inquiries, please contact:
+- May include access to premium modules, features, or integrations (if/when available).
 
-**Sky Genesis Enterprise**  
+- Provides priority support and enterprise onboarding.
+
+# 📩 Contact
+For commercial licensing, enterprise support, or partnership inquiries, please reach out to:
+
+**Sky Genesis Enterprise** 
 📧 legal@skygenesisenterprise.com
 
----
-
-**Note:** Using Aether Mail in a commercial environment **without respecting the AGPLv3 terms or without a commercial license** may constitute a license violation.
+Note: Using Astron Social in a commercial context without complying with AGPLv3 or without a commercial license may be a license violation and subject to legal consequences.
