@@ -59,7 +59,7 @@
     "fs": "^0.0.1-security",
     "inquirer": "^12.6.3",
     "path": "^0.12.7",
-    "pnpm": "^10.11.0",
+    "pnpm": "^10.11.1",
     "vite": "^6.3.5"
   },
   "devDependencies": {
