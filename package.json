@@ -54,7 +54,7 @@
     "prepare": "husky install"
   },
   "dependencies": {
-    "axios": "^1.9.0",
+    "axios": "^1.10.0",
     "child-process": "^1.0.2",
     "fs": "^0.0.1-security",
     "inquirer": "^12.6.3",
