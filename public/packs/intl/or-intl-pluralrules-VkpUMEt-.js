@@ -1,0 +1,2 @@
+Intl.PluralRules&&typeof Intl.PluralRules.__addLocaleData=="function"&&Intl.PluralRules.__addLocaleData({data:{categories:{cardinal:["one","other"],ordinal:["one","two","few","many","other"]},fn:function(e,a){var t=String(e).split("."),l=Number(t[0])==e;return a?e==1||e==5||l&&e>=7&&e<=9?"one":e==2||e==3?"two":e==4?"few":e==6?"many":"other":e==1?"one":"other"}},locale:"or"});
+//# sourceMappingURL=or-intl-pluralrules-VkpUMEt-.js.map

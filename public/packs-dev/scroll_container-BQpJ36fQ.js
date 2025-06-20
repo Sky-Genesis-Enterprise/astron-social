@@ -1,0 +1,2 @@
+var e=Object.defineProperty;var c=(a,t,l)=>t in a?e(a,t,{enumerable:!0,configurable:!0,writable:!0,value:l}):a[t]=l;var n=(a,t,l)=>c(a,typeof t!="symbol"?t+"":t,l);import{a as m}from"./react-router-scroll-4.es-6ieDtVAa.js";const S=(a,{location:t})=>{var l,d,o,s;return!((l=t.state)!=null&&l.mastodonModalKey&&((d=t.state)==null?void 0:d.mastodonModalKey)!==((s=(o=a==null?void 0:a.location)==null?void 0:o.state)==null?void 0:s.mastodonModalKey))};class f extends m{}n(f,"defaultProps",{shouldUpdateScroll:S});export{f as S};
+//# sourceMappingURL=scroll_container-BQpJ36fQ.js.map

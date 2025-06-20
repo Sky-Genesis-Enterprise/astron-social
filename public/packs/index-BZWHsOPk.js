@@ -1,0 +1,2 @@
+import{j as f}from"./client-wT6vtYO_.js";import{r as i}from"./index-BdTwX--g.js";import{c as j}from"./index-DizoKcfL.js";const E=({type:r="button",onClick:t,disabled:o,block:s,secondary:n,compact:a,dangerous:c,className:u,title:m,text:e,children:b,...p})=>{const l=i.useCallback(x=>{!o&&t&&t(x)},[o,t]);return f.jsx("button",{className:j("button",u,{"button-secondary":n,"button--compact":a,"button--block":s,"button--dangerous":c}),disabled:o,onClick:l,title:m,type:r,...p,children:e??b})};export{E as B};
+//# sourceMappingURL=index-BZWHsOPk.js.map

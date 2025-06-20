@@ -1,0 +1,2 @@
+const s="/packs/assets/worker-B9Bty8gg.js";export{s as default};
+//# sourceMappingURL=worker.min-CsIQe9T3.js.map

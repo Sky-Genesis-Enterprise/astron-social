@@ -1,0 +1,2 @@
+Intl.PluralRules&&typeof Intl.PluralRules.__addLocaleData=="function"&&Intl.PluralRules.__addLocaleData({data:{categories:{cardinal:["one","other"],ordinal:["many","other"]},fn:function(a,e){var l=String(a).split("."),r=!l[1],t=Number(l[0])==a;return e?a==11||a==8||t&&a>=80&&a<=89||t&&a>=800&&a<=899?"many":"other":a==1&&r?"one":"other"}},locale:"lij"});
+//# sourceMappingURL=lij-intl-pluralrules-C-jqgkpp.js.map

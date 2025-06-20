@@ -1,0 +1,2 @@
+import{j as e}from"./client-wT6vtYO_.js";import"./index-BdTwX--g.js";import{M as s}from"./message-UFwkQlnu.js";const n=()=>e.jsx("div",{className:"scrollable scrollable--flex",children:e.jsx("div",{className:"empty-column-indicator",children:e.jsx(s,{id:"not_signed_in_indicator.not_signed_in",defaultMessage:"You need to login to access this resource."})})});export{n as N};
+//# sourceMappingURL=not_signed_in_indicator-CCzEFwYn.js.map

@@ -1,0 +1,2 @@
+Intl.PluralRules&&typeof Intl.PluralRules.__addLocaleData=="function"&&Intl.PluralRules.__addLocaleData({data:{categories:{cardinal:["one","other"],ordinal:["other"]},fn:function(n,o){var e=String(n).split("."),l=e[0],i=e[1]||"",a=!e[1],t=l.slice(-1),r=i.slice(-1);return o?"other":a&&(l==1||l==2||l==3)||a&&t!=4&&t!=6&&t!=9||!a&&r!=4&&r!=6&&r!=9?"one":"other"}},locale:"ceb"});
+//# sourceMappingURL=ceb-intl-pluralrules-BaN5erwW.js.map

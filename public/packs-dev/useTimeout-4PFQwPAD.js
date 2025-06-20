@@ -1,0 +1,2 @@
+import{r}from"./index-ykyyQSL-.js";const i=()=>{const e=r.useRef(),t=r.useRef(),n=r.useCallback((u,s)=>{e.current&&clearTimeout(e.current),t.current=u,e.current=setTimeout(u,s)},[]),o=r.useCallback(u=>{e.current&&clearTimeout(e.current),t.current&&(e.current=setTimeout(t.current,u))},[]),c=r.useCallback(()=>{e.current&&(clearTimeout(e.current),e.current=void 0,t.current=void 0)},[]);return r.useEffect(()=>()=>{c()},[c]),[n,c,o]};export{i as u};
+//# sourceMappingURL=useTimeout-4PFQwPAD.js.map

@@ -1,0 +1,2 @@
+import{j as s}from"./client-wT6vtYO_.js";import{c as i}from"./index-DizoKcfL.js";const m=({name:t,value:o,checked:a,onChange:r,label:n})=>s.jsxs("label",{className:"radio-button",children:[s.jsx("input",{name:t,type:"radio",value:o,checked:a,onChange:r}),s.jsx("span",{className:i("radio-button__input",{checked:a})}),s.jsx("span",{children:n})]});export{m as R};
+//# sourceMappingURL=radio_button-BeENtbrA.js.map

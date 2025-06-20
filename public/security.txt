@@ -1,3 +1,0 @@
-Contact: mailto:security@skygenesisenterprise.com
-Encryption: https://astron-social.com/pgp-key.txt
-Acknowledgements: https://astron-social.com/security-acknowledgements.txt

@@ -1,0 +1,2 @@
+Intl.PluralRules&&typeof Intl.PluralRules.__addLocaleData=="function"&&Intl.PluralRules.__addLocaleData({data:{categories:{cardinal:["one","other"],ordinal:["one","two","few","many","other"]},fn:function(a,e){return e?a==1||a==5||a==7||a==8||a==9||a==10?"one":a==2||a==3?"two":a==4?"few":a==6?"many":"other":a>=0&&a<=1?"one":"other"}},locale:"as"});
+//# sourceMappingURL=as-intl-pluralrules-DOopzUMG.js.map

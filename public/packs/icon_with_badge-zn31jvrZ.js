@@ -1,0 +1,2 @@
+import{j as a}from"./client-wT6vtYO_.js";import{I as t}from"./useSelectableClick-DeaJbL2_.js";const r=s=>s>40?"40+":s,n=({id:s,icon:e,count:i,issueBadge:o,className:c})=>a.jsxs("i",{className:"icon-with-badge",children:[a.jsx(t,{id:s,icon:e,className:c}),i>0&&a.jsx("i",{className:"icon-with-badge__badge",children:r(i)}),o&&a.jsx("i",{className:"icon-with-badge__issue-badge"})]});export{n as I};
+//# sourceMappingURL=icon_with_badge-zn31jvrZ.js.map

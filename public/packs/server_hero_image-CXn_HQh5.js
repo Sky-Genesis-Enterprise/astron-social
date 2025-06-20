@@ -1,0 +1,2 @@
+import{j as e}from"./client-wT6vtYO_.js";import{r as o}from"./index-BdTwX--g.js";import{c}from"./index-DizoKcfL.js";import{b4 as d}from"./useSelectableClick-DeaJbL2_.js";const j=({src:r,srcSet:t,blurhash:s,className:m})=>{const[i,a]=o.useState(!1),l=o.useCallback(()=>{a(!0)},[a]);return e.jsxs("div",{className:c("image",{loaded:i},m),role:"presentation",children:[s&&e.jsx(d,{hash:s,className:"image__preview"}),e.jsx("img",{src:r,srcSet:t,alt:"",onLoad:l})]})};export{j as S};
+//# sourceMappingURL=server_hero_image-CXn_HQh5.js.map

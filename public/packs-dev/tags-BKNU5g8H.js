@@ -1,0 +1,2 @@
+import{a as o,g as n,c as s,b as g}from"./api-uqk9CYtW.js";const l=a=>g(`v1/tags/${a}`),p=a=>s(`v1/tags/${a}/follow`),r=a=>s(`v1/tags/${a}/unfollow`),u=a=>s(`v1/tags/${a}/feature`),c=a=>s(`v1/tags/${a}/unfeature`),f=async(a,e)=>{const t=await o().request({method:"GET",url:a??"/api/v1/followed_tags",params:{limit:e}});return{tags:t.data,links:n(t)}};export{f as a,r as b,l as c,p as d,u as e,c as f};
+//# sourceMappingURL=tags-BKNU5g8H.js.map

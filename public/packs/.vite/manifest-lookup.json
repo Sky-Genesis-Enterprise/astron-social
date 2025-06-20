@@ -1,0 +1,18 @@
+{
+  "entrypoints/admin": "entrypoints/admin.tsx",
+  "entrypoints/application": "entrypoints/application.ts",
+  "entrypoints/common": "entrypoints/common.ts",
+  "entrypoints/embed": "entrypoints/embed.tsx",
+  "entrypoints/error": "entrypoints/error.ts",
+  "entrypoints/public": "entrypoints/public.tsx",
+  "entrypoints/remote_interaction_helper": "entrypoints/remote_interaction_helper.ts",
+  "entrypoints/share": "entrypoints/share.tsx",
+  "entrypoints/sign_up": "entrypoints/sign_up.ts",
+  "entrypoints/two_factor_authentication": "entrypoints/two_factor_authentication.ts",
+  "styles/entrypoints/inert": "styles/entrypoints/inert.scss",
+  "styles/entrypoints/mailer": "styles/entrypoints/mailer.scss",
+  "themes/default": "styles/application.scss",
+  "themes/contrast": "styles/contrast.scss",
+  "themes/mastodon-light": "styles/mastodon-light.scss",
+  "polyfills": "../../vite/legacy-polyfills"
+}

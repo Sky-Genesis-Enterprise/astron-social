@@ -1,0 +1,2 @@
+import{b as s,c as o,d as e,e as f,f as g}from"./tags-BKNU5g8H.js";import{bh as t}from"./useSelectableClick-DBo53LOf.js";const r=t("tags/fetch",({tagId:a})=>o(a)),u=t("tags/follow",({tagId:a})=>e(a)),c=t("tags/unfollow",({tagId:a})=>s(a)),h=t("tags/feature",({tagId:a})=>f(a)),i=t("tags/unfeature",({tagId:a})=>g(a));export{u as a,i as b,h as c,r as f,c as u};
+//# sourceMappingURL=tags_typed-CDkBGaYv.js.map

@@ -1,0 +1,2 @@
+const f=(t,e,s,l,o)=>l*((e=e/o-1)*e*e*e*e+1)+s,i=(t,e,s)=>{const l=Date.now(),o=t[e],p=s-o,r=1e3;let c=!1;const n=()=>{const a=Date.now()-l;a/r>1||c||(t[e]=f(0,a,o,p,r),requestAnimationFrame(n))};return n(),()=>{c=!0}},u="scrollBehavior"in document.documentElement.style,h=(t,e)=>requestIdleCallback(()=>{u?t.scrollTo({left:e,behavior:"smooth"}):i(t,"scrollLeft",e)}),g=t=>requestIdleCallback(()=>{u?t.scrollTo({top:0,behavior:"smooth"}):i(t,"scrollTop",0)});export{g as a,h as s};
+//# sourceMappingURL=scroll-BygYx8ga.js.map

@@ -1,0 +1,2 @@
+Intl.PluralRules&&typeof Intl.PluralRules.__addLocaleData=="function"&&Intl.PluralRules.__addLocaleData({data:{categories:{cardinal:["one","other"],ordinal:["one","many","other"]},fn:function(l,n){var t=String(l).split("."),e=t[0],a=e.slice(-2);return n?e==1?"one":e==0||a>=2&&a<=20||a==40||a==60||a==80?"many":"other":l==1?"one":"other"}},locale:"ka"});
+//# sourceMappingURL=ka-intl-pluralrules-Cwk9hRmb.js.map

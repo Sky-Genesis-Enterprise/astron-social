@@ -1,0 +1,2 @@
+import{j as i}from"./client-BG6VvM0b.js";import{b5 as m}from"./useSelectableClick-DBo53LOf.js";import{l as u}from"./initial_state-BP3UcUr4.js";const d=({src:o,staticSrc:s,className:n,animate:e=u})=>{const{hovering:r,handleMouseEnter:a,handleMouseLeave:t}=m(e);return i.jsxDEV("img",{className:n,src:r||e?o:s,alt:"",role:"presentation",onMouseEnter:a,onMouseLeave:t},void 0,!1,{fileName:"/home/liam-esia/Bureau/github/mastodon/app/javascript/mastodon/components/gif.tsx",lineNumber:13,columnNumber:5},void 0)};export{d as G};
+//# sourceMappingURL=gif-CQLWVfmH.js.map

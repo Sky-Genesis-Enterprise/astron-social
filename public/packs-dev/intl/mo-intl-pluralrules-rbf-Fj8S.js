@@ -1,0 +1,2 @@
+Intl.PluralRules&&typeof Intl.PluralRules.__addLocaleData=="function"&&Intl.PluralRules.__addLocaleData({data:{categories:{cardinal:["one","few","other"],ordinal:["one","other"]},fn:function(e,o){var l=String(e).split("."),a=!l[1],r=Number(l[0])==e,t=r&&l[0].slice(-2);return o?e==1?"one":"other":e==1&&a?"one":!a||e==0||e!=1&&t>=1&&t<=19?"few":"other"}},locale:"mo"});
+//# sourceMappingURL=mo-intl-pluralrules-rbf-Fj8S.js.map

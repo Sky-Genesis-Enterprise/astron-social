@@ -1,0 +1,2 @@
+import{j as i}from"./client-wT6vtYO_.js";import{b5 as u}from"./useSelectableClick-DeaJbL2_.js";import{l as m}from"./initial_state-BP3UcUr4.js";const v=({src:e,staticSrc:r,className:s,animate:o=m})=>{const{hovering:t,handleMouseEnter:n,handleMouseLeave:a}=u(o);return i.jsx("img",{className:s,src:t||o?e:r,alt:"",role:"presentation",onMouseEnter:n,onMouseLeave:a})};export{v as G};
+//# sourceMappingURL=gif-BtN1axMk.js.map

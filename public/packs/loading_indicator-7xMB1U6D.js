@@ -1,0 +1,2 @@
+import{j as a}from"./client-wT6vtYO_.js";import{u as i,d as r}from"./index-BdTwX--g.js";import{as as e}from"./useSelectableClick-DeaJbL2_.js";const o=r({loading:{id:"loading_indicator.label",defaultMessage:"Loading…"}}),d=()=>{const s=i();return a.jsx("div",{className:"loading-indicator",role:"progressbar","aria-busy":!0,"aria-live":"polite","aria-label":s.formatMessage(o.loading),children:a.jsx(e,{size:50,strokeWidth:6})})};export{d as L};
+//# sourceMappingURL=loading_indicator-7xMB1U6D.js.map

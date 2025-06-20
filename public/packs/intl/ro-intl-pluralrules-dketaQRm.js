@@ -1,0 +1,2 @@
+Intl.PluralRules&&typeof Intl.PluralRules.__addLocaleData=="function"&&Intl.PluralRules.__addLocaleData({data:{categories:{cardinal:["one","few","other"],ordinal:["one","other"]},fn:function(e,r){var l=String(e).split("."),a=!l[1],o=Number(l[0])==e,t=o&&l[0].slice(-2);return r?e==1?"one":"other":e==1&&a?"one":!a||e==0||e!=1&&t>=1&&t<=19?"few":"other"}},locale:"ro"});
+//# sourceMappingURL=ro-intl-pluralrules-dketaQRm.js.map

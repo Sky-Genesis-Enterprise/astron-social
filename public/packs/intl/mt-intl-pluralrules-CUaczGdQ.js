@@ -1,0 +1,2 @@
+Intl.PluralRules&&typeof Intl.PluralRules.__addLocaleData=="function"&&Intl.PluralRules.__addLocaleData({data:{categories:{cardinal:["one","two","few","many","other"],ordinal:["other"]},fn:function(t,l){var e=String(t).split("."),r=Number(e[0])==t,a=r&&e[0].slice(-2);return l?"other":t==1?"one":t==2?"two":t==0||a>=3&&a<=10?"few":a>=11&&a<=19?"many":"other"}},locale:"mt"});
+//# sourceMappingURL=mt-intl-pluralrules-CUaczGdQ.js.map

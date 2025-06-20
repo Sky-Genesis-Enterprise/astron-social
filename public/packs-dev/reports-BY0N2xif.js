@@ -1,0 +1,2 @@
+import{a as T}from"./api-uqk9CYtW.js";import{o as S}from"./useSelectableClick-DBo53LOf.js";const i="REPORT_SUBMIT_REQUEST",r="REPORT_SUBMIT_SUCCESS",s="REPORT_SUBMIT_FAIL",I=(o,t)=>R=>R(S({modalType:"REPORT",modalProps:{accountId:o.get("id"),statusId:t==null?void 0:t.get("id")}})),U=(o,t,R)=>e=>{e(E()),T().post("/api/v1/reports",o).then(p=>{e(_(p.data)),t&&t()}).catch(p=>{e(c(p)),R&&R()})},E=()=>({type:i}),_=o=>({type:r,report:o}),c=o=>({type:s,error:o});export{I as i,U as s};
+//# sourceMappingURL=reports-BY0N2xif.js.map

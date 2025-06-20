@@ -1,0 +1,2 @@
+Intl.PluralRules&&typeof Intl.PluralRules.__addLocaleData=="function"&&Intl.PluralRules.__addLocaleData({data:{categories:{cardinal:["one","other"],ordinal:["one","many","other"]},fn:function(e,t){var a=String(e).split("."),l=Number(a[0])==e,n=l&&a[0].slice(-1),r=l&&a[0].slice(-2);return t?e==1?"one":n==4&&r!=14?"many":"other":e==1?"one":"other"}},locale:"sq"});
+//# sourceMappingURL=sq-intl-pluralrules-BHDV1n-D.js.map

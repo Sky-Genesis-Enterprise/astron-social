@@ -1,0 +1,2 @@
+import{j as e}from"./client-BG6VvM0b.js";import{c as r}from"./index-guCj-HqV.js";const p=({children:o,compact:s=!1,avatarHeight:a})=>e.jsxDEV("div",{className:r("avatar-group",{"avatar-group--compact":s}),style:a?{"--avatar-height":`${a}px`}:void 0,children:o},void 0,!1,{fileName:"/home/liam-esia/Bureau/github/mastodon/app/javascript/mastodon/components/avatar_group.tsx",lineNumber:13,columnNumber:1},void 0);export{p as A};
+//# sourceMappingURL=avatar_group-CaQvETuJ.js.map

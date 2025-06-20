@@ -1,0 +1,2 @@
+import{j as m}from"./client-wT6vtYO_.js";import{r as l}from"./index-BdTwX--g.js";import{a as c}from"./scroll-BygYx8ga.js";const u=l.forwardRef(({children:s,label:n,bindToDocument:t},a)=>{const r=l.useRef(null);return l.useImperativeHandle(a,()=>({node:r.current,scrollTop(){var o;let e=null;t?e=document.scrollingElement:e=(o=r.current)==null?void 0:o.querySelector(".scrollable"),e&&c(e)}})),m.jsx("div",{role:"region","aria-label":n,className:"column",ref:r,children:s})});u.displayName="Column";export{u as C};
+//# sourceMappingURL=column-B4vwzadM.js.map

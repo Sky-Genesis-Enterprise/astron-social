@@ -1,0 +1,2 @@
+Intl.PluralRules&&typeof Intl.PluralRules.__addLocaleData=="function"&&Intl.PluralRules.__addLocaleData({data:{categories:{cardinal:["zero","one","two","few","many","other"],ordinal:["other"]},fn:function(e,l){var t=String(e).split("."),r=Number(t[0])==e,a=r&&t[0].slice(-2);return l?"other":e==0?"zero":e==1?"one":e==2?"two":a>=3&&a<=10?"few":a>=11&&a<=99?"many":"other"}},locale:"ars"});
+//# sourceMappingURL=ars-intl-pluralrules-BXLV0uHE.js.map

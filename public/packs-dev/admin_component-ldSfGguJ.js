@@ -1,0 +1,2 @@
+import{j as e}from"./client-BG6VvM0b.js";import{r}from"./index-ykyyQSL-.js";import{I as t}from"./intl_provider-D0J2t9XZ.js";import"./load_locale-C-B7BkCQ.js";class p extends r.PureComponent{render(){const{children:o}=this.props;return e.jsxDEV(t,{children:o},void 0,!1,{fileName:"/home/liam-esia/Bureau/github/mastodon/app/javascript/mastodon/containers/admin_component.jsx",lineNumber:16,columnNumber:7},this)}}export{p as default};
+//# sourceMappingURL=admin_component-ldSfGguJ.js.map

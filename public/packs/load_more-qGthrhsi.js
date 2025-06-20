@@ -1,0 +1,2 @@
+import{j as e}from"./client-wT6vtYO_.js";import"./index-BdTwX--g.js";import{L as a}from"./loading_indicator-7xMB1U6D.js";import{M as i}from"./message-UFwkQlnu.js";const p=({onClick:s,disabled:r,visible:o=!0,loading:t=!1})=>e.jsx("button",{type:"button",className:"load-more",disabled:r||t||!o,style:{visibility:o?"visible":"hidden"},onClick:s,children:t?e.jsx(a,{}):e.jsx(i,{id:"status.load_more",defaultMessage:"Load more"})});export{p as L};
+//# sourceMappingURL=load_more-qGthrhsi.js.map

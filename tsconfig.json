@@ -1,23 +1,38 @@
 {
   "compilerOptions": {
-    "target": "ES2020",
-    "useDefineForClassFields": true,
-    "lib": ["ES2020", "DOM", "DOM.Iterable"],
-    "module": "ESNext",
-    "skipLibCheck": true,
-    "moduleResolution": "bundler",
-    "allowImportingTsExtensions": true,
-    "resolveJsonModule": true,
-    "isolatedModules": true,
     "jsx": "react-jsx",
-    "strict": true,
-    "noFallthroughCasesInSwitch": true,
+    "target": "esnext",
+    "module": "ES2022",
+    "moduleResolution": "bundler",
+    "allowJs": true,
+    "resolveJsonModule": true,
     "noEmit": true,
-    "types": ["@types/babel__core"]
+    "strict": true,
+    "isolatedModules": true, // Required by Vite
+    "noImplicitReturns": true,
+    "noUncheckedIndexedAccess": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "types": ["vite/client", "vitest/globals"],
+    "baseUrl": "./",
+    "incremental": true,
+    "tsBuildInfoFile": "tmp/cache/tsconfig.tsbuildinfo",
+    "paths": {
+      "@/*": ["app/javascript/*"],
+      "mastodon": ["app/javascript/mastodon"],
+      "mastodon/*": ["app/javascript/mastodon/*"],
+      "images/*": ["app/javascript/images/*"],
+      "styles/*": ["app/javascript/styles/*"]
+    }
   },
   "include": [
-    "src",
-    "vite.config.ts",
-    "api"
+    "vite.config.mts",
+    "vitest.config.mts",
+    "config/vite",
+    "app/javascript/mastodon",
+    "app/javascript/entrypoints",
+    "app/javascript/types",
+    ".storybook/*.ts",
+    ".storybook/*.tsx"
   ]
 }
